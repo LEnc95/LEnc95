@@ -1,0 +1,117 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Luke Encrapera Command Center</title>
+  <desc id="desc">Custom branded profile banner for AI engineering, security architecture, and automation systems.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="42%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1220" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#060b16" stop-opacity="0.88"/>
+    </linearGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="26" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title {
+        font: 800 64px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        letter-spacing: 1.4px;
+        fill: #f8fafc;
+      }
+      .subtitle {
+        font: 600 22px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        letter-spacing: 0.6px;
+        fill: #c7d2fe;
+      }
+      .tagline {
+        font: 600 26px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        letter-spacing: 0.4px;
+        fill: #e2e8f0;
+      }
+      .small {
+        font: 600 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        letter-spacing: 1.5px;
+        fill: #93c5fd;
+      }
+      .cardTitle {
+        font: 700 18px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        fill: #f8fafc;
+      }
+      .cardBody {
+        font: 500 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        fill: #cbd5e1;
+      }
+      .chip {
+        font: 700 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        letter-spacing: 0.7px;
+        fill: #dbeafe;
+      }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="412" rx="28" fill="url(#bg)"/>
+  <rect x="4" y="4" width="1192" height="412" rx="28" fill="url(#grid)" opacity="0.42"/>
+
+  <circle cx="1080" cy="84" r="130" fill="#38bdf8" opacity="0.14" filter="url(#softGlow)"/>
+  <circle cx="1000" cy="332" r="112" fill="#7c3aed" opacity="0.15" filter="url(#softGlow)"/>
+
+  <rect x="22" y="22" width="1156" height="376" rx="24" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.75"/>
+
+  <g transform="translate(54,72)">
+    <text class="small" x="0" y="0">AI AND SONS | OPERATOR COMMAND CENTER</text>
+    <text class="title" x="0" y="84">LUKE ENCRAPERA</text>
+    <text class="subtitle" x="0" y="124">AI Engineer | Security Architect | Founder</text>
+    <text class="tagline" x="0" y="186">Build systems that build systems.</text>
+
+    <line x1="0" y1="208" x2="520" y2="208" stroke="url(#accent)" stroke-width="3" opacity="0.85"/>
+
+    <text class="cardBody" x="0" y="248">Agentic platforms, identity automation, and secure enterprise AI delivery.</text>
+    <text class="cardBody" x="0" y="274">Designed for real operators and real production constraints.</text>
+  </g>
+
+  <g transform="translate(680,68)">
+    <text class="small" x="0" y="0">OPERATIONAL DOMAINS</text>
+
+    <rect x="0" y="24" width="472" height="66" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
+    <text class="cardTitle" x="20" y="52">AI Engineering</text>
+    <text class="cardBody" x="20" y="74">Multi-model orchestration and practical deployment patterns</text>
+
+    <rect x="0" y="102" width="472" height="66" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
+    <text class="cardTitle" x="20" y="130">Agentic Automation</text>
+    <text class="cardBody" x="20" y="152">Tool-calling workflows with end-to-end execution loops</text>
+
+    <rect x="0" y="180" width="472" height="66" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
+    <text class="cardTitle" x="20" y="208">Identity and Security</text>
+    <text class="cardBody" x="20" y="230">Enterprise controls, IAM architecture, and governance by design</text>
+  </g>
+
+  <g transform="translate(52,342)">
+    <rect x="0" y="0" width="230" height="38" rx="10" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="20" y="25">SECURITY-FIRST BUILDS</text>
+
+    <rect x="248" y="0" width="214" height="38" rx="10" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="268" y="25">AUTOMATION-BY-DEFAULT</text>
+
+    <rect x="480" y="0" width="266" height="38" rx="10" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="500" y="25">ENTERPRISE AI EXECUTION</text>
+  </g>
+</svg>
