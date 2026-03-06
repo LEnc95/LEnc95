@@ -2,9 +2,7 @@
 <!-- HERO HEADER -->
 <!-- ================================================= -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/header.svg" alt="Luke Encrapera profile header"/>
-</p>
+![Luke Encrapera profile header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:0f172a,70:1f6feb,100:7c3aed&text=Luke%20Encrapera&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Security%20Architect%20%7C%20Founder%20AI%20%26%20Sons&descAlignY=60&descSize=22)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=1000&lines=Building+Agentic+AI+Systems;Automation+Engineer;Enterprise+Security+Architect;Founder+of+AI+%26+Sons;Designing+Systems+that+Build+Systems" />
