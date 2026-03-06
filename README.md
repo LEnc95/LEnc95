@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="./assets/header.svg" alt="Luke Encrapera profile header"/>
+  <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/header.svg" alt="Luke Encrapera profile header"/>
 </p>
 
 <p align="center">
