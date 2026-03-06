@@ -335,8 +335,6 @@ I partner on high-leverage projects where security, automation, and AI must work
 
 ---
 
-## AI and Sons Crest
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/ai-and-sons-crest.svg" alt="AI and Sons custom crest" />
 </p>
