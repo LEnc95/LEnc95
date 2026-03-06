@@ -132,26 +132,12 @@ Professionally I work in **Information Security and Identity Architecture** whil
 
 ## Featured Projects
 
-### [AzureLicenseBilling](https://github.com/LEnc95/AzureLicenseBilling)
-Automates Azure license and billing workflows.
+### [Doc2URL](https://github.com/LEnc95/Doc2URL)
+Document-to-link workflow and publishing utility.
 
-<img src="https://img.shields.io/github/stars/LEnc95/AzureLicenseBilling?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/last-commit/LEnc95/AzureLicenseBilling?style=for-the-badge" />
-<img src="https://img.shields.io/github/languages/top/LEnc95/AzureLicenseBilling?style=for-the-badge" />
-
-### [SecretServer](https://github.com/LEnc95/SecretServer)
-Security and secret-management automation.
-
-<img src="https://img.shields.io/github/stars/LEnc95/SecretServer?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/last-commit/LEnc95/SecretServer?style=for-the-badge" />
-<img src="https://img.shields.io/github/languages/top/LEnc95/SecretServer?style=for-the-badge" />
-
-### [OCR](https://github.com/LEnc95/OCR)
-Optical character recognition tooling and processing workflows.
-
-<img src="https://img.shields.io/github/stars/LEnc95/OCR?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/last-commit/LEnc95/OCR?style=for-the-badge" />
-<img src="https://img.shields.io/github/languages/top/LEnc95/OCR?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/LEnc95/Doc2URL?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/LEnc95/Doc2URL?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LEnc95/Doc2URL?style=for-the-badge" />
 
 ### [games.aiandsons.io](https://github.com/LEnc95/games.aiandsons.io)
 Games and interactive experiments from AI and Sons.
@@ -159,6 +145,20 @@ Games and interactive experiments from AI and Sons.
 <img src="https://img.shields.io/github/stars/LEnc95/games.aiandsons.io?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/last-commit/LEnc95/games.aiandsons.io?style=for-the-badge" />
 <img src="https://img.shields.io/github/languages/top/LEnc95/games.aiandsons.io?style=for-the-badge" />
+
+### [MFAAutomation](https://github.com/LEnc95/MFAAutomation)
+Automation tooling for MFA and identity security workflows.
+
+<img src="https://img.shields.io/github/stars/LEnc95/MFAAutomation?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/LEnc95/MFAAutomation?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LEnc95/MFAAutomation?style=for-the-badge" />
+
+### [OCR](https://github.com/LEnc95/OCR)
+Optical character recognition tooling and processing workflows.
+
+<img src="https://img.shields.io/github/stars/LEnc95/OCR?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/LEnc95/OCR?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LEnc95/OCR?style=for-the-badge" />
 
 ---
 
