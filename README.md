@@ -233,19 +233,9 @@ Secure infrastructure allows the leverage to scale safely.
 
 ## Terminal
 
-```text
-> whoami
-Luke Encrapera
-
-> profession
-AI Engineer | Security Architect | Founder
-
-> building
-agentic AI platforms
-
-> focus
-automation, intelligence, identity architecture
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/luke-terminal-window.svg" alt="Luke Encrapera terminal window" />
+</p>
 
 ---
 

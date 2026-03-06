@@ -1,0 +1,56 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Luke Encrapera Terminal Window</title>
+  <desc id="desc">Custom terminal window graphic with professional profile commands and output.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 17px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #e2e8f0; }
+      .mono { font: 600 24px "JetBrains Mono", "Consolas", "Menlo", monospace; }
+      .prompt { fill: #22d3ee; }
+      .cmd { fill: #f8fafc; }
+      .out { fill: #cbd5e1; }
+      .cursor { fill: #7c3aed; }
+      .meta { font: 600 11px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; letter-spacing: 1.2px; fill: #93c5fd; }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="422" rx="24" fill="url(#bg)"/>
+  <rect x="4" y="4" width="1192" height="422" rx="24" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
+
+  <rect x="34" y="28" width="1132" height="54" rx="12" fill="#0b1220" stroke="#334155"/>
+  <circle cx="64" cy="55" r="8" fill="#ef4444"/>
+  <circle cx="88" cy="55" r="8" fill="#f59e0b"/>
+  <circle cx="112" cy="55" r="8" fill="#22c55e"/>
+  <text x="140" y="61" class="title">luke@command-center: ~/profile</text>
+
+  <rect x="34" y="96" width="1132" height="300" rx="12" fill="#060b16" stroke="#334155"/>
+
+  <text x="56" y="132" class="mono prompt">$</text>
+  <text x="86" y="132" class="mono cmd">whoami</text>
+  <text x="86" y="164" class="mono out">Luke Encrapera</text>
+
+  <text x="56" y="206" class="mono prompt">$</text>
+  <text x="86" y="206" class="mono cmd">profession</text>
+  <text x="86" y="238" class="mono out">AI Engineer | Security Architect | Founder</text>
+
+  <text x="56" y="280" class="mono prompt">$</text>
+  <text x="86" y="280" class="mono cmd">building</text>
+  <text x="86" y="312" class="mono out">agentic AI platforms through AI and Sons</text>
+
+  <text x="56" y="354" class="mono prompt">$</text>
+  <text x="86" y="354" class="mono cmd">focus</text>
+  <text x="86" y="386" class="mono out">automation, intelligence, identity architecture</text>
+
+  <rect x="680" y="336" width="14" height="28" rx="3" class="cursor"/>
+
+  <text x="46" y="414" class="meta">TERMINAL MODE: OPERATOR EXECUTION | STATUS: ONLINE</text>
+</svg>
