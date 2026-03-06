@@ -1,30 +1,139 @@
-# Welcome to My GitHub Profile! 👋
+# Luke Encrapera
 
-Hi, I'm @LEnc95! I'm a passionate developer with a strong interest in automation, AI, and now venturing into the fascinating world of geospatial projects. I love diving into projects that push the boundaries of what's possible, using technology to solve complex problems and improve everyday life.
+AI Security Architect | Founder @ AI & Sons
+
+Building secure, intelligent systems at the intersection of AI innovation, enterprise security, and automation.
+
+---
 
 ## About Me
 
-- 👀 I’m interested in automation and AI!
-- 🌱 I’m currently working with MIMWAL, exploring its capabilities and how it can streamline processes in innovative ways.
-- 💞️ I’m looking to collaborate on open source smart home projects. If you're working on making homes smarter and more efficient through technology, I'd love to be a part of it.
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luke-encrapera/).
+I design and build AI-native software systems that combine modern machine learning capabilities with strong identity architecture and secure infrastructure.
 
-## Expanding My Horizons: Geospatial Projects
+My background includes enterprise identity security engineering as well as building independent AI applications and platforms through my startup **AI & Sons**.
 
-My interest in technology now extends to **geospatial projects**. The power of geospatial technology to analyze, visualize, and derive insights from geographical data is incredibly exciting. I'm keen to explore areas such as:
+My work focuses on designing systems where **AI models, identity governance, and scalable infrastructure operate together.**
 
-- Geographic Information Systems (GIS)
-- Remote Sensing
-- Spatial Data Analysis
-- Geospatial Data Visualization
+---
 
-I believe geospatial technology can significantly impact various sectors, from urban planning to environmental conservation, and I'm eager to learn more about it. Whether it's through contributing to projects, sharing knowledge, or collaborating with experts in the field, I'm excited to dive into this new area.
+## Current Focus
 
-If you're working on geospatial projects or share a passion for smart home technologies and AI, I'd love to connect and explore potential collaborations.
+• AI-native application development  
+• computer vision systems  
+• real-time accessibility tools  
+• automation platforms  
+• secure identity architecture for AI systems
 
-Thank you for visiting my profile, and I look forward to the amazing things we can achieve together!
+---
 
-<!---
-LEnc95/LEnc95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## AI Development Ecosystem
+
+I intentionally work across the full AI tooling landscape rather than relying on a single vendor.
+
+Models
+
+OpenAI  
+Gemini  
+Claude  
+Local LLMs  
+Perplexity  
+
+Agentic Development Platforms
+
+Cursor  
+Antigravity  
+Copilot  
+Codex  
+Claude Code  
+
+Capabilities
+
+LLM orchestration  
+AI automation  
+agentic workflows  
+prompt engineering  
+RAG pipelines  
+
+---
+
+## Infrastructure & DevOps
+
+Docker  
+Firebase  
+Vercel  
+AWS
+GCP
+Azure
+Serverless architecture  
+GitHub Actions  
+CI/CD pipelines  
+
+---
+
+## Security
+
+Zero Trust Architecture  
+Identity & Access Management  
+Microsoft Entra ID  
+Active Directory  
+Application Security  
+
+---
+
+## Featured Projects
+
+### AudioDescript
+AI accessibility platform converting visual information into audio descriptions.
+
+https://audiodescript.com
+
+---
+
+### Fridge2Fork
+
+Computer vision platform generating recipes based on fridge ingredients.
+
+https://fridge2fork.com
+
+---
+
+### Cabinet2Cocktail
+
+AI-powered cocktail generation platform.
+
+https://cabinet2cocktail.com
+
+---
+
+### Slither
+
+Privacy-first anonymous navigation platform focused on protecting user identity and activity.
+
+---
+
+### Doc2URL
+
+Security research project demonstrating data exfiltration vectors.
+
+https://github.com/LEnc95/Doc2URL
+
+---
+
+## Connect
+
+LinkedIn  
+https://linkedin.com/in/luke-encrapera
+
+GitHub  
+https://github.com/LEnc95
+
+Location  
+Jefferson Hills, Pennsylvania
+
+---
+
+## Philosophy
+
+The next generation of software will be powered by AI agents operating inside secure identity architectures.
+
+My work focuses on building the systems that make that future possible.
