@@ -161,15 +161,11 @@ I build and run automation like production infrastructure, with observable pipel
 
 ---
 
-## Contribution Activity Graph
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEnc95&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
-
-## 3D Contribution Skyline
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/output/profile-season-animate.svg" />
