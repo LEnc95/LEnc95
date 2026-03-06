@@ -143,8 +143,6 @@ I build and run automation like production infrastructure, with observable pipel
 
 ---
 
-## Neural Contribution Animation
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/output/github-contribution-grid-snake-dark.svg" />
 </p>
