@@ -1,6 +1,6 @@
 <svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Luke Encrapera Command Center</title>
-  <desc id="desc">Custom branded profile banner for AI engineering, security architecture, and automation systems.</desc>
+  <desc id="desc">Animated command center banner for AI engineering, security architecture, and automation systems.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
@@ -19,6 +19,12 @@
       <stop offset="100%" stop-color="#060b16" stop-opacity="0.9"/>
     </linearGradient>
 
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" fill="none" stroke="#1e293b" stroke-width="1"/>
     </pattern>
@@ -30,6 +36,10 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <clipPath id="panelClip" clipPathUnits="userSpaceOnUse">
+      <rect x="4" y="4" width="1192" height="512" rx="30"/>
+    </clipPath>
 
     <style>
       .title {
@@ -71,18 +81,45 @@
   <rect x="4" y="4" width="1192" height="512" rx="30" fill="url(#bg)"/>
   <rect x="4" y="4" width="1192" height="512" rx="30" fill="url(#grid)" opacity="0.4"/>
 
-  <circle cx="1080" cy="96" r="142" fill="#38bdf8" opacity="0.14" filter="url(#softGlow)"/>
-  <circle cx="990" cy="420" r="130" fill="#7c3aed" opacity="0.15" filter="url(#softGlow)"/>
+  <circle cx="1080" cy="96" r="142" fill="#38bdf8" opacity="0.14" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.08;0.2;0.08" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="990" cy="420" r="130" fill="#7c3aed" opacity="0.15" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.1;0.22;0.1" dur="7s" repeatCount="indefinite"/>
+  </circle>
 
-  <rect x="22" y="22" width="1156" height="476" rx="26" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.78"/>
+  <g clip-path="url(#panelClip)">
+    <rect x="-300" y="0" width="260" height="520" fill="url(#sweep)" transform="skewX(-14)">
+      <animate attributeName="x" values="-340;1320" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="22" y="22" width="1156" height="476" rx="26" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.78">
+    <animate attributeName="opacity" values="0.55;0.9;0.55" dur="5.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g>
+    <circle cx="1124" cy="52" r="5" fill="#22d3ee">
+      <animate attributeName="r" values="4;7;4" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1144" cy="52" r="5" fill="#7c3aed">
+      <animate attributeName="r" values="4;7;4" dur="2.8s" begin="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
   <g transform="translate(54,94)">
     <text class="small" x="0" y="0">AI AND SONS | OPERATOR COMMAND CENTER</text>
-    <text class="title" x="0" y="88">LUKE ENCRAPERA</text>
+    <text class="title" x="0" y="88">LUKE ENCRAPERA
+      <animate attributeName="opacity" values="0.82;1;0.82" dur="4.8s" repeatCount="indefinite"/>
+    </text>
     <text class="subtitle" x="0" y="132">AI Engineer | Security Architect | Founder</text>
     <text class="tagline" x="0" y="206">Build systems that build systems.</text>
 
-    <line x1="0" y1="232" x2="546" y2="232" stroke="url(#accent)" stroke-width="3" opacity="0.88"/>
+    <line x1="0" y1="232" x2="546" y2="232" stroke="url(#accent)" stroke-width="3" opacity="0.88">
+      <animate attributeName="x2" values="260;546;260" dur="5.2s" repeatCount="indefinite"/>
+    </line>
 
     <text class="cardBody" x="0" y="278">Agentic platforms, identity automation, and secure enterprise AI delivery.</text>
     <text class="cardBody" x="0" y="304">Designed for real operators and real production constraints.</text>
@@ -108,13 +145,19 @@
   </g>
 
   <g transform="translate(52,432)">
-    <rect x="0" y="0" width="252" height="40" rx="10" fill="#0b1220" stroke="#334155"/>
+    <rect x="0" y="0" width="252" height="40" rx="10" fill="#0b1220" stroke="#334155">
+      <animate attributeName="stroke" values="#334155;#22d3ee;#334155" dur="4.6s" repeatCount="indefinite"/>
+    </rect>
     <text class="chip" x="18" y="26">SECURITY-FIRST BUILDS</text>
 
-    <rect x="268" y="0" width="252" height="40" rx="10" fill="#0b1220" stroke="#334155"/>
+    <rect x="268" y="0" width="252" height="40" rx="10" fill="#0b1220" stroke="#334155">
+      <animate attributeName="stroke" values="#334155;#7c3aed;#334155" dur="4.6s" begin="1.5s" repeatCount="indefinite"/>
+    </rect>
     <text class="chip" x="286" y="26">AUTOMATION-BY-DEFAULT</text>
 
-    <rect x="536" y="0" width="296" height="40" rx="10" fill="#0b1220" stroke="#334155"/>
+    <rect x="536" y="0" width="296" height="40" rx="10" fill="#0b1220" stroke="#334155">
+      <animate attributeName="stroke" values="#334155;#22d3ee;#334155" dur="4.6s" begin="3s" repeatCount="indefinite"/>
+    </rect>
     <text class="chip" x="554" y="26">ENTERPRISE AI EXECUTION</text>
   </g>
 </svg>

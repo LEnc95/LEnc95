@@ -1,6 +1,6 @@
 <svg width="1200" height="440" viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Project Atlas</title>
-  <desc id="desc">Project topology map for featured repositories.</desc>
+  <desc id="desc">Animated project topology map for featured repositories.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
@@ -12,6 +12,10 @@
       <stop offset="0%" stop-color="#7c3aed"/>
       <stop offset="100%" stop-color="#22d3ee"/>
     </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
     <style>
       .headline { font: 700 38px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #f8fafc; }
       .small { font: 600 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; letter-spacing: 1.3px; fill: #93c5fd; }
@@ -29,15 +33,41 @@
   <text x="42" y="58" class="headline">Project Atlas</text>
   <text x="44" y="82" class="small">FLAGSHIP REPOSITORY TOPOLOGY</text>
 
-  <g stroke="url(#line)" stroke-width="2" fill="none" opacity="0.88">
-    <line x1="600" y1="220" x2="276" y2="154"/>
-    <line x1="600" y1="220" x2="924" y2="154"/>
-    <line x1="600" y1="220" x2="276" y2="314"/>
-    <line x1="600" y1="220" x2="924" y2="314"/>
+  <g stroke="url(#line)" stroke-width="2" fill="none" opacity="0.88" stroke-dasharray="10 10">
+    <line x1="600" y1="220" x2="276" y2="154"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="220" x2="924" y2="154"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" begin="0.7s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="220" x2="276" y2="314"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="220" x2="924" y2="314"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="2.8s" begin="2.1s" repeatCount="indefinite"/></line>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle r="4" fill="#22d3ee" opacity="0">
+      <animate attributeName="cx" values="600;276" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="220;154" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#22d3ee" opacity="0">
+      <animate attributeName="cx" values="600;924" dur="2.6s" begin="0.65s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="220;154" dur="2.6s" begin="0.65s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.6s" begin="0.65s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#22d3ee" opacity="0">
+      <animate attributeName="cx" values="600;276" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="220;314" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.6s" begin="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#22d3ee" opacity="0">
+      <animate attributeName="cx" values="600;924" dur="2.6s" begin="1.95s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="220;314" dur="2.6s" begin="1.95s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.6s" begin="1.95s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
   <g>
-    <rect x="488" y="168" width="224" height="104" rx="16" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+    <rect x="488" y="168" width="224" height="104" rx="16" fill="#0b1220" stroke="#22d3ee" stroke-width="2">
+      <animate attributeName="stroke" values="#22d3ee;#7c3aed;#22d3ee" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.88;1;0.88" dur="4s" repeatCount="indefinite"/>
+    </rect>
     <text x="600" y="205" text-anchor="middle" class="hubTitle">AI and Sons Core</text>
     <text x="600" y="226" text-anchor="middle" class="hubBody">Shared architecture patterns</text>
     <text x="600" y="245" text-anchor="middle" class="hubBody">secure automation execution</text>
