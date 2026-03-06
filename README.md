@@ -18,8 +18,11 @@
 
 <p align="center">
   <a href="#mission-control">Mission Control</a> |
+  <a href="#mission-radar">Mission Radar</a> |
+  <a href="#project-atlas">Project Atlas</a> |
   <a href="#featured-projects">Featured Projects</a> |
   <a href="#execution-blueprint">Execution Blueprint</a> |
+  <a href="#ai-and-sons-crest">AI and Sons Crest</a> |
   <a href="#currently-building">Currently Building</a> |
   <a href="#connect">Connect</a>
 </p>
@@ -57,6 +60,14 @@ Professionally I work in **Information Security and Identity Architecture** whil
 </p>
 
 I build and run automation like production infrastructure, with observable pipelines, repeatable systems, and secure-by-default controls.
+
+---
+
+## Mission Radar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/mission-radar.svg" alt="Mission Radar for Luke Encrapera" />
+</p>
 
 ---
 
@@ -155,6 +166,14 @@ I build and run automation like production infrastructure, with observable pipel
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/output/profile-season-animate.svg" />
+</p>
+
+---
+
+## Project Atlas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/project-atlas.svg" alt="Project Atlas for Luke Encrapera repositories" />
 </p>
 
 ---
@@ -314,6 +333,14 @@ I partner on high-leverage projects where security, automation, and AI must work
 - Identity and access automation architecture
 - AI-powered internal platforms for operator teams
 - Security-first workflow modernization
+
+---
+
+## AI and Sons Crest
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/ai-and-sons-crest.svg" alt="AI and Sons custom crest" />
+</p>
 
 ---
 

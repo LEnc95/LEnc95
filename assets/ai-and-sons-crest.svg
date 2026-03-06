@@ -1,0 +1,42 @@
+<svg width="760" height="260" viewBox="0 0 760 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI and Sons Crest</title>
+  <desc id="desc">Custom crest mark for AI and Sons.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="58%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <style>
+      .big { font: 800 54px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #f8fafc; letter-spacing: 1px; }
+      .small { font: 700 14px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #93c5fd; letter-spacing: 1.4px; }
+      .body { font: 500 14px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #cbd5e1; }
+      .mono { font: 700 42px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #e2e8f0; }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="752" height="252" rx="22" fill="url(#bg)"/>
+  <rect x="4" y="4" width="752" height="252" rx="22" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
+
+  <g transform="translate(42,42)">
+    <rect x="0" y="0" width="170" height="170" rx="22" fill="#0b1220" stroke="#334155"/>
+    <circle cx="85" cy="84" r="62" fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <text class="mono" x="85" y="98" text-anchor="middle">A&amp;S</text>
+  </g>
+
+  <g transform="translate(248,60)">
+    <text class="small" x="0" y="0">CREST MARK</text>
+    <text class="big" x="0" y="64">AI and Sons</text>
+    <text class="body" x="0" y="94">Practical intelligence. Secure execution. Scalable automation.</text>
+    <text class="body" x="0" y="120">Built for operators shipping real outcomes in enterprise environments.</text>
+
+    <line x1="0" y1="144" x2="434" y2="144" stroke="url(#accent)" stroke-width="2"/>
+
+    <text class="small" x="0" y="170">SIGNATURE: BUILD SYSTEMS THAT BUILD SYSTEMS</text>
+  </g>
+</svg>

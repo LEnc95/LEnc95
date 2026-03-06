@@ -1,0 +1,84 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Project Atlas</title>
+  <desc id="desc">Project topology map for featured repositories.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#060b16"/>
+      <stop offset="48%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b3a87"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <style>
+      .headline { font: 700 38px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #f8fafc; }
+      .small { font: 600 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; letter-spacing: 1.3px; fill: #93c5fd; }
+      .nodeTitle { font: 700 18px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #f8fafc; }
+      .nodeBody { font: 500 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #cbd5e1; }
+      .hubTitle { font: 700 20px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #e2e8f0; }
+      .hubBody { font: 500 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; fill: #cbd5e1; }
+      .chip { font: 700 12px "Trebuchet MS", "Segoe UI", "Arial", sans-serif; letter-spacing: 0.8px; fill: #dbeafe; }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="432" rx="26" fill="url(#bg)"/>
+  <rect x="4" y="4" width="1192" height="432" rx="26" fill="none" stroke="url(#line)" stroke-width="1.4" opacity="0.8"/>
+
+  <text x="42" y="58" class="headline">Project Atlas</text>
+  <text x="44" y="82" class="small">FLAGSHIP REPOSITORY TOPOLOGY</text>
+
+  <g stroke="url(#line)" stroke-width="2" fill="none" opacity="0.88">
+    <line x1="600" y1="220" x2="276" y2="154"/>
+    <line x1="600" y1="220" x2="924" y2="154"/>
+    <line x1="600" y1="220" x2="276" y2="314"/>
+    <line x1="600" y1="220" x2="924" y2="314"/>
+  </g>
+
+  <g>
+    <rect x="488" y="168" width="224" height="104" rx="16" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+    <text x="600" y="205" text-anchor="middle" class="hubTitle">AI and Sons Core</text>
+    <text x="600" y="226" text-anchor="middle" class="hubBody">Shared architecture patterns</text>
+    <text x="600" y="245" text-anchor="middle" class="hubBody">secure automation execution</text>
+  </g>
+
+  <g>
+    <rect x="118" y="108" width="316" height="92" rx="14" fill="#0b1220" stroke="#334155"/>
+    <text x="142" y="142" class="nodeTitle">Doc2URL</text>
+    <text x="142" y="164" class="nodeBody">Document-to-link publishing utility</text>
+    <text x="142" y="182" class="nodeBody">for operational knowledge access</text>
+  </g>
+
+  <g>
+    <rect x="766" y="108" width="316" height="92" rx="14" fill="#0b1220" stroke="#334155"/>
+    <text x="790" y="142" class="nodeTitle">MFAAutomation</text>
+    <text x="790" y="164" class="nodeBody">Identity and MFA operations</text>
+    <text x="790" y="182" class="nodeBody">with policy-first automation</text>
+  </g>
+
+  <g>
+    <rect x="118" y="268" width="316" height="92" rx="14" fill="#0b1220" stroke="#334155"/>
+    <text x="142" y="302" class="nodeTitle">OCR</text>
+    <text x="142" y="324" class="nodeBody">Unstructured document extraction</text>
+    <text x="142" y="342" class="nodeBody">to trigger downstream workflows</text>
+  </g>
+
+  <g>
+    <rect x="766" y="268" width="316" height="92" rx="14" fill="#0b1220" stroke="#334155"/>
+    <text x="790" y="302" class="nodeTitle">games.aiandsons.io</text>
+    <text x="790" y="324" class="nodeBody">Interactive experimentation layer</text>
+    <text x="790" y="342" class="nodeBody">for rapid product feedback loops</text>
+  </g>
+
+  <g transform="translate(44,392)">
+    <rect x="0" y="0" width="182" height="28" rx="8" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="14" y="19">SECURE DESIGN</text>
+
+    <rect x="196" y="0" width="214" height="28" rx="8" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="210" y="19">AUTOMATION LEVERAGE</text>
+
+    <rect x="426" y="0" width="208" height="28" rx="8" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="440" y="19">OPERATOR-FIRST UX</text>
+  </g>
+</svg>
