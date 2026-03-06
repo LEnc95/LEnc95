@@ -16,17 +16,19 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
     steps:
       - name: Skip without METRICS_TOKEN
-        if: ${{ secrets.METRICS_TOKEN == '' }}
+        if: ${{ env.METRICS_TOKEN == '' }}
         run: echo "METRICS_TOKEN is not set; skipping metrics generation."
 
       - name: Generate metrics
-        if: ${{ secrets.METRICS_TOKEN != '' }}
+        if: ${{ env.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           # PAT is required for accurate private/org repository stats.
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_TOKEN }}
           user: LEnc95
           template: classic
           base: header, activity, community, repositories, metadata
