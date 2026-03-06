@@ -97,17 +97,11 @@ Professionally I work in **Information Security and Identity Architecture** whil
 ## GitHub Metrics
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LEnc95&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=LEnc95&theme=tokyonight&hide_border=true" />
-
+<img src="https://github.com/LEnc95/LEnc95/blob/main/github-metrics.svg?raw=true" alt="GitHub metrics for Luke Encrapera" />
 </p>
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEnc95&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img height="180" src="https://streak-stats.demolab.com?user=LEnc95&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
