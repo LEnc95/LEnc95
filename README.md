@@ -64,7 +64,7 @@ I build and run automation like production infrastructure, with observable pipel
 
 ---
 
-## Mission Radar
+<a id="mission-radar"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/mission-radar.svg" alt="Mission Radar for Luke Encrapera" />
@@ -72,7 +72,7 @@ I build and run automation like production infrastructure, with observable pipel
 
 ---
 
-## Brand Credentials
+<a id="brand-credentials"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/brand-credentials.svg" alt="Brand credentials with AI and Sons and Giant Eagle logos" />
@@ -179,7 +179,7 @@ I build and run automation like production infrastructure, with observable pipel
 
 ---
 
-## Project Atlas
+<a id="project-atlas"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/project-atlas.svg" alt="Project Atlas for Luke Encrapera repositories" />
@@ -231,7 +231,7 @@ Secure infrastructure allows the leverage to scale safely.
 
 ---
 
-## Terminal
+<a id="terminal"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/luke-terminal-window.svg" alt="Luke Encrapera terminal window" />
@@ -334,6 +334,8 @@ I partner on high-leverage projects where security, automation, and AI must work
 - Security-first workflow modernization
 
 ---
+
+<a id="ai-and-sons-crest"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/ai-and-sons-crest.svg" alt="AI and Sons custom crest" />
