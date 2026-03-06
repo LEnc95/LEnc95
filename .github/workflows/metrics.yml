@@ -20,7 +20,8 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Use PAT for full private/org stats; fallback keeps workflow running.
+          token: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: LEnc95
           template: classic
           base: header, activity, community, repositories, metadata
