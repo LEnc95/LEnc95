@@ -19,6 +19,7 @@
 <p align="center">
   <a href="#mission-control">Mission Control</a> |
   <a href="#mission-radar">Mission Radar</a> |
+  <a href="#brand-credentials">Brand Credentials</a> |
   <a href="#project-atlas">Project Atlas</a> |
   <a href="#featured-projects">Featured Projects</a> |
   <a href="#execution-blueprint">Execution Blueprint</a> |
@@ -67,6 +68,14 @@ I build and run automation like production infrastructure, with observable pipel
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/mission-radar.svg" alt="Mission Radar for Luke Encrapera" />
+</p>
+
+---
+
+## Brand Credentials
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LEnc95/LEnc95/main/assets/brand-credentials.svg" alt="Brand credentials with AI and Sons and Giant Eagle logos" />
 </p>
 
 ---
