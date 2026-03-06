@@ -1,9 +1,9 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Luke Encrapera Command Center</title>
   <desc id="desc">Custom branded profile banner for AI engineering, security architecture, and automation systems.</desc>
 
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#05070d"/>
       <stop offset="42%" stop-color="#0f172a"/>
       <stop offset="100%" stop-color="#1f6feb"/>
@@ -15,8 +15,8 @@
     </linearGradient>
 
     <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0b1220" stop-opacity="0.88"/>
-      <stop offset="100%" stop-color="#060b16" stop-opacity="0.88"/>
+      <stop offset="0%" stop-color="#0b1220" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#060b16" stop-opacity="0.9"/>
     </linearGradient>
 
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
@@ -33,27 +33,27 @@
 
     <style>
       .title {
-        font: 800 64px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        font: 800 66px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
         letter-spacing: 1.4px;
         fill: #f8fafc;
       }
       .subtitle {
-        font: 600 22px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        font: 600 23px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
         letter-spacing: 0.6px;
         fill: #c7d2fe;
       }
       .tagline {
-        font: 600 26px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        font: 600 28px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
         letter-spacing: 0.4px;
         fill: #e2e8f0;
       }
       .small {
         font: 600 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
-        letter-spacing: 1.5px;
+        letter-spacing: 1.4px;
         fill: #93c5fd;
       }
       .cardTitle {
-        font: 700 18px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
+        font: 700 19px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
         fill: #f8fafc;
       }
       .cardBody {
@@ -62,56 +62,59 @@
       }
       .chip {
         font: 700 13px "Trebuchet MS", "Segoe UI", "Arial", sans-serif;
-        letter-spacing: 0.7px;
+        letter-spacing: 0.6px;
         fill: #dbeafe;
       }
     </style>
   </defs>
 
-  <rect x="4" y="4" width="1192" height="412" rx="28" fill="url(#bg)"/>
-  <rect x="4" y="4" width="1192" height="412" rx="28" fill="url(#grid)" opacity="0.42"/>
+  <rect x="4" y="4" width="1192" height="512" rx="30" fill="url(#bg)"/>
+  <rect x="4" y="4" width="1192" height="512" rx="30" fill="url(#grid)" opacity="0.4"/>
 
-  <circle cx="1080" cy="84" r="130" fill="#38bdf8" opacity="0.14" filter="url(#softGlow)"/>
-  <circle cx="1000" cy="332" r="112" fill="#7c3aed" opacity="0.15" filter="url(#softGlow)"/>
+  <circle cx="1080" cy="96" r="142" fill="#38bdf8" opacity="0.14" filter="url(#softGlow)"/>
+  <circle cx="990" cy="420" r="130" fill="#7c3aed" opacity="0.15" filter="url(#softGlow)"/>
 
-  <rect x="22" y="22" width="1156" height="376" rx="24" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.75"/>
+  <rect x="22" y="22" width="1156" height="476" rx="26" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.78"/>
 
-  <g transform="translate(54,72)">
+  <g transform="translate(54,94)">
     <text class="small" x="0" y="0">AI AND SONS | OPERATOR COMMAND CENTER</text>
-    <text class="title" x="0" y="84">LUKE ENCRAPERA</text>
-    <text class="subtitle" x="0" y="124">AI Engineer | Security Architect | Founder</text>
-    <text class="tagline" x="0" y="186">Build systems that build systems.</text>
+    <text class="title" x="0" y="88">LUKE ENCRAPERA</text>
+    <text class="subtitle" x="0" y="132">AI Engineer | Security Architect | Founder</text>
+    <text class="tagline" x="0" y="206">Build systems that build systems.</text>
 
-    <line x1="0" y1="208" x2="520" y2="208" stroke="url(#accent)" stroke-width="3" opacity="0.85"/>
+    <line x1="0" y1="232" x2="546" y2="232" stroke="url(#accent)" stroke-width="3" opacity="0.88"/>
 
-    <text class="cardBody" x="0" y="248">Agentic platforms, identity automation, and secure enterprise AI delivery.</text>
-    <text class="cardBody" x="0" y="274">Designed for real operators and real production constraints.</text>
+    <text class="cardBody" x="0" y="278">Agentic platforms, identity automation, and secure enterprise AI delivery.</text>
+    <text class="cardBody" x="0" y="304">Designed for real operators and real production constraints.</text>
   </g>
 
-  <g transform="translate(680,68)">
+  <g transform="translate(668,92)">
     <text class="small" x="0" y="0">OPERATIONAL DOMAINS</text>
 
-    <rect x="0" y="24" width="472" height="66" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
-    <text class="cardTitle" x="20" y="52">AI Engineering</text>
-    <text class="cardBody" x="20" y="74">Multi-model orchestration and practical deployment patterns</text>
+    <rect x="0" y="26" width="488" height="76" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
+    <text class="cardTitle" x="20" y="56">AI Engineering</text>
+    <text class="cardBody" x="20" y="79">Multi-model orchestration</text>
+    <text class="cardBody" x="20" y="96">and practical deployment patterns</text>
 
-    <rect x="0" y="102" width="472" height="66" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
-    <text class="cardTitle" x="20" y="130">Agentic Automation</text>
-    <text class="cardBody" x="20" y="152">Tool-calling workflows with end-to-end execution loops</text>
+    <rect x="0" y="116" width="488" height="76" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
+    <text class="cardTitle" x="20" y="146">Agentic Automation</text>
+    <text class="cardBody" x="20" y="169">Tool-calling workflows</text>
+    <text class="cardBody" x="20" y="186">with end-to-end execution loops</text>
 
-    <rect x="0" y="180" width="472" height="66" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
-    <text class="cardTitle" x="20" y="208">Identity and Security</text>
-    <text class="cardBody" x="20" y="230">Enterprise controls, IAM architecture, and governance by design</text>
+    <rect x="0" y="206" width="488" height="76" rx="14" fill="url(#card)" stroke="#334155" stroke-width="1"/>
+    <text class="cardTitle" x="20" y="236">Identity and Security</text>
+    <text class="cardBody" x="20" y="259">Enterprise controls, IAM architecture,</text>
+    <text class="cardBody" x="20" y="276">and governance by design</text>
   </g>
 
-  <g transform="translate(52,342)">
-    <rect x="0" y="0" width="230" height="38" rx="10" fill="#0b1220" stroke="#334155"/>
-    <text class="chip" x="20" y="25">SECURITY-FIRST BUILDS</text>
+  <g transform="translate(52,432)">
+    <rect x="0" y="0" width="252" height="40" rx="10" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="18" y="26">SECURITY-FIRST BUILDS</text>
 
-    <rect x="248" y="0" width="214" height="38" rx="10" fill="#0b1220" stroke="#334155"/>
-    <text class="chip" x="268" y="25">AUTOMATION-BY-DEFAULT</text>
+    <rect x="268" y="0" width="252" height="40" rx="10" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="286" y="26">AUTOMATION-BY-DEFAULT</text>
 
-    <rect x="480" y="0" width="266" height="38" rx="10" fill="#0b1220" stroke="#334155"/>
-    <text class="chip" x="500" y="25">ENTERPRISE AI EXECUTION</text>
+    <rect x="536" y="0" width="296" height="40" rx="10" fill="#0b1220" stroke="#334155"/>
+    <text class="chip" x="554" y="26">ENTERPRISE AI EXECUTION</text>
   </g>
 </svg>
