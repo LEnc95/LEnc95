@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:0f172a,70:1f6feb,100:7c3aed&text=Luke%20Encrapera&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Security%20Architect%20%7C%20Founder%20AI%20%26%20Sons&descAlignY=60&descSize=22"/>
+  <img src="./assets/header.svg" alt="Luke Encrapera profile header"/>
 </p>
 
 <p align="center">
@@ -132,29 +132,33 @@ Professionally I work in **Information Security and Identity Architecture** whil
 
 ## Featured Projects
 
-<p align="center">
+### [AzureLicenseBilling](https://github.com/LEnc95/AzureLicenseBilling)
+Automates Azure license and billing workflows.
 
-<a href="https://github.com/LEnc95/AzureLicenseBilling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=AzureLicenseBilling&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/github/stars/LEnc95/AzureLicenseBilling?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/LEnc95/AzureLicenseBilling?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LEnc95/AzureLicenseBilling?style=for-the-badge" />
 
-<a href="https://github.com/LEnc95/SecretServer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=SecretServer&theme=tokyonight&hide_border=true" />
-</a>
+### [SecretServer](https://github.com/LEnc95/SecretServer)
+Security and secret-management automation.
 
-</p>
+<img src="https://img.shields.io/github/stars/LEnc95/SecretServer?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/LEnc95/SecretServer?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LEnc95/SecretServer?style=for-the-badge" />
 
-<p align="center">
+### [OCR](https://github.com/LEnc95/OCR)
+Optical character recognition tooling and processing workflows.
 
-<a href="https://github.com/LEnc95/OCR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=OCR&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/github/stars/LEnc95/OCR?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/LEnc95/OCR?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LEnc95/OCR?style=for-the-badge" />
 
-<a href="https://github.com/LEnc95/AI-and-Sons">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=AI-and-Sons&theme=tokyonight&hide_border=true" />
-</a>
+### [games.aiandsons.io](https://github.com/LEnc95/games.aiandsons.io)
+Games and interactive experiments from AI and Sons.
 
-</p>
+<img src="https://img.shields.io/github/stars/LEnc95/games.aiandsons.io?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/last-commit/LEnc95/games.aiandsons.io?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/LEnc95/games.aiandsons.io?style=for-the-badge" />
 
 ---
 
