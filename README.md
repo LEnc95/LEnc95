@@ -16,6 +16,16 @@
 
 ---
 
+<p align="center">
+  <a href="#mission-control">Mission Control</a> |
+  <a href="#featured-projects">Featured Projects</a> |
+  <a href="#execution-blueprint">Execution Blueprint</a> |
+  <a href="#currently-building">Currently Building</a> |
+  <a href="#connect">Connect</a>
+</p>
+
+---
+
 ## Welcome
 
 I build **AI-driven systems, automation platforms, and secure enterprise tooling**.
@@ -29,6 +39,33 @@ My work sits at the intersection of:
 - Developer Productivity Platforms
 
 Professionally I work in **Information Security and Identity Architecture** while building advanced AI platforms through **AI and Sons**.
+
+---
+
+## Mission Control
+
+<p align="center">
+  <a href="https://github.com/LEnc95/LEnc95/actions/workflows/snake.yml"><img src="https://github.com/LEnc95/LEnc95/actions/workflows/snake.yml/badge.svg" /></a>
+  <a href="https://github.com/LEnc95/LEnc95/actions/workflows/profile-3d.yml"><img src="https://github.com/LEnc95/LEnc95/actions/workflows/profile-3d.yml/badge.svg" /></a>
+  <a href="https://github.com/LEnc95/LEnc95/actions/workflows/metrics.yml"><img src="https://github.com/LEnc95/LEnc95/actions/workflows/metrics.yml/badge.svg" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Timezone-America%2FNew_York-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build%20Mode-Security%20First-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Execution-Agentic%20Automation-0ea5e9?style=for-the-badge" />
+</p>
+
+I build and run automation like production infrastructure, with observable pipelines, repeatable systems, and secure-by-default controls.
+
+---
+
+## What Sets Me Apart
+
+- I bridge **AI engineering and enterprise security** in the same execution model.
+- I ship systems that move from prototype to production with governance in place.
+- I design for operators first, so tools are usable under real-world pressure.
+- I optimize for leverage: less manual work, faster delivery, stronger controls.
 
 ---
 
@@ -125,28 +162,28 @@ Professionally I work in **Information Security and Identity Architecture** whil
 ## Featured Projects
 
 ### [Doc2URL](https://github.com/LEnc95/Doc2URL)
-Document-to-link workflow and publishing utility.
+Turns source documents into shareable, operational URLs for faster internal delivery.
 
 <img src="https://img.shields.io/github/stars/LEnc95/Doc2URL?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/last-commit/LEnc95/Doc2URL?style=for-the-badge" />
 <img src="https://img.shields.io/github/languages/top/LEnc95/Doc2URL?style=for-the-badge" />
 
 ### [games.aiandsons.io](https://github.com/LEnc95/games.aiandsons.io)
-Games and interactive experiments from AI and Sons.
+Interactive sandbox for experimentation with AI interaction loops, UX, and rapid iteration.
 
 <img src="https://img.shields.io/github/stars/LEnc95/games.aiandsons.io?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/last-commit/LEnc95/games.aiandsons.io?style=for-the-badge" />
 <img src="https://img.shields.io/github/languages/top/LEnc95/games.aiandsons.io?style=for-the-badge" />
 
 ### [MFAAutomation](https://github.com/LEnc95/MFAAutomation)
-Automation tooling for MFA and identity security workflows.
+Enterprise MFA and identity-operations automation focused on reliability and policy alignment.
 
 <img src="https://img.shields.io/github/stars/LEnc95/MFAAutomation?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/last-commit/LEnc95/MFAAutomation?style=for-the-badge" />
 <img src="https://img.shields.io/github/languages/top/LEnc95/MFAAutomation?style=for-the-badge" />
 
 ### [OCR](https://github.com/LEnc95/OCR)
-Optical character recognition tooling and processing workflows.
+Extracts actionable data from unstructured documents for downstream automation workflows.
 
 <img src="https://img.shields.io/github/stars/LEnc95/OCR?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/last-commit/LEnc95/OCR?style=for-the-badge" />
@@ -184,39 +221,21 @@ automation, intelligence, identity architecture
 
 ---
 
-## AI System Map
+## Execution Blueprint
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f6feb&height=70&section=header&text=AI%20System%20Map&fontSize=28&fontColor=ffffff"/>
-</p>
-
-```text
-User / Business Problem
-          |
-          v
-   Interface Layer
-(Web Apps / APIs / Voice / Chat)
-          |
-          v
-   Orchestration Layer
- (n8n / Agents / Workflows)
-          |
-     +----+----+
-     v    v    v
-  Tools  Memory  Data
-   |       |      |
-   v       v      v
-Secrets  Vector   APIs / Files / DBs
-Server   Stores
-     \     |     /
-      \    |    /
-       v   v   v
-   Multi-Model Intelligence Layer
-(OpenAI / Claude / Gemini / Local Models)
-              |
-              v
-   Secure Decision and Action Layer
-(Automation / Provisioning / Analysis / Execution)
+```mermaid
+flowchart LR
+    A["Business Problem"] --> B["Interface Layer"]
+    B --> C["Orchestration Layer"]
+    C --> D["Tools"]
+    C --> E["Memory"]
+    C --> F["Data"]
+    C --> G["Multi-Model Intelligence"]
+    D --> H["Secure Decision Layer"]
+    E --> H
+    F --> H
+    G --> H
+    H --> I["Automated Action and Delivery"]
 ```
 
 ### How I Build
@@ -284,6 +303,17 @@ Areas of work:
 - developer copilots
 - automation infrastructure
 - intelligent software systems
+
+---
+
+## Build With Me
+
+I partner on high-leverage projects where security, automation, and AI must work together from day one.
+
+- Enterprise AI implementation with governance
+- Identity and access automation architecture
+- AI-powered internal platforms for operator teams
+- Security-first workflow modernization
 
 ---
 
