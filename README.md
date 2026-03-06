@@ -1,251 +1,305 @@
 <!-- ================================================= -->
-
 <!-- HERO HEADER -->
-
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:1f6feb,100:7c3aed&text=Luke%20Encrapera&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Security%20Architect%20•%20Founder%20of%20AI%20%26%20Sons&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:0f172a,70:1f6feb,100:7c3aed&text=Luke%20Encrapera&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Security%20Architect%20%7C%20Founder%20AI%20%26%20Sons&descAlignY=60&descSize=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3200&pause=800&color=1F6FEB&center=true&vCenter=true&width=980&lines=Building+secure+AI+systems;Agentic+automation+engineer;Enterprise+identity+and+security+architect;Founder+of+AI+%26+Sons;Turning+ideas+into+intelligent+platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=1000&lines=Building+Agentic+AI+Systems;Automation+Engineer;Enterprise+Security+Architect;Founder+of+AI+%26+Sons;Designing+Systems+that+Build+Systems" />
 </p>
 
 <p align="center">
   <a href="https://github.com/LEnc95"><img src="https://komarev.com/ghpvc/?username=LEnc95&color=blueviolet&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/luke-encrapera"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/LEnc95"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/luke-encrapera"><img src="https://img.shields.io/badge/LinkedIn-Luke%20Encrapera-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/github/followers/LEnc95?style=for-the-badge" />
 </p>
 
 ---
 
-# 👋 Welcome
+## Welcome
 
-I build **intelligent software systems** at the intersection of **AI engineering, automation, identity, and enterprise security**.
+I build **AI-driven systems, automation platforms, and secure enterprise tooling**.
 
-By day, I work in **Information Security and Identity Architecture**. Beyond that, I am the founder of **AI & Sons**, where I design practical AI systems, automation frameworks, and modern developer solutions that create real operational leverage.
+My work sits at the intersection of:
 
-My focus is simple:
+- Artificial Intelligence Engineering
+- Automation and Agentic Systems
+- Enterprise Identity Architecture
+- Security Engineering
+- Developer Productivity Platforms
 
-* build systems that reduce manual work
-* secure platforms that scale cleanly
-* use AI where it creates measurable impact
-* turn complex workflows into repeatable products
+Professionally I work in **Information Security and Identity Architecture** while building advanced AI platforms through **AI and Sons**.
 
 ---
 
-# 🧠 Core Focus
+## Core Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation%20Engineering-1e293b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Identity%20Architecture-1f2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%20Engineering-0b1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Developer%20Tooling-172554?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI%20Engineering-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20Systems-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Identity%20Architecture-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security%20Engineering-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Developer%20Tooling-black?style=for-the-badge" />
+
 </p>
 
 ---
 
-# ⚙️ Technology Stack
+## Technology Stack
 
-## AI / LLM Ecosystem
+### AI Ecosystem
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Local%20Models-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Perplexity-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Local%20LLMs-black?style=for-the-badge" />
 </p>
 
-## Engineering
+### Development
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-111827?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/PowerShell-111827?style=for-the-badge&logo=powershell" />
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure" />
 </p>
 
-## Security / Identity
+### Identity and Security
 
 <p>
-  <img src="https://img.shields.io/badge/Entra%20ID-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RBAC-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Secrets%20Management-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IAM%20Automation-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise%20Security-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Active%20Directory-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Entra%20ID-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RBAC-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Secrets%20Management-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IAM%20Automation-black?style=for-the-badge" />
 </p>
 
 ---
 
-# 🌌 Neural Network Banner
+## Neural Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/LEnc95/LEnc95/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 📊 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LEnc95&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=LEnc95&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LEnc95&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=LEnc95&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEnc95&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEnc95&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-# 📈 Live Contribution Graph
+## Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEnc95&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LEnc95&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🏙️ 3D Contribution Skyline
+## 3D Contribution Skyline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ykzts/github-3d-contrib/master/profile-season-animate.svg" alt="3D contribution skyline" />
+<img src="https://raw.githubusercontent.com/LEnc95/LEnc95/output/profile-season-animate.svg" />
 </p>
 
 ---
 
-# 🚀 Featured Work
+## Featured Projects
 
-## 🤖 AI Automation Systems
+<p align="center">
 
-Agentic systems designed to coordinate tools, APIs, workflows, and models to solve multi-step business problems with minimal human intervention.
+<a href="https://github.com/LEnc95/AzureLicenseBilling">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=AzureLicenseBilling&theme=tokyonight&hide_border=true" />
+</a>
 
-## 📈 AI Stock Trader
+<a href="https://github.com/LEnc95/SecretServer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=SecretServer&theme=tokyonight&hide_border=true" />
+</a>
 
-A trading platform built around:
+</p>
 
-* real-time market data
-* AI-assisted signal evaluation
-* automated execution logic
-* systematic decision pipelines
+<p align="center">
 
-## 🔐 Enterprise Identity Automation
+<a href="https://github.com/LEnc95/OCR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=OCR&theme=tokyonight&hide_border=true" />
+</a>
 
-Security engineering focused on:
+<a href="https://github.com/LEnc95/AI-and-Sons">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=AI-and-Sons&theme=tokyonight&hide_border=true" />
+</a>
 
-* identity lifecycle automation
-* RBAC and entitlement design
-* secrets management modernization
-* provisioning and governance pipelines
-
-## 🎙️ AI Voice Systems
-
-Voice-driven AI assistants with:
-
-* conversational orchestration
-* memory-aware workflows
-* tool calling
-* real-time interaction patterns
+</p>
 
 ---
 
-# 🧩 Architecture Philosophy
+## Architecture Philosophy
 
 > **Build systems that build systems.**
 
-I care about platforms that are:
+Automation creates leverage.
 
-* secure by design
-* automation first
-* modular and reusable
-* practical in production
-* capable of compounding value over time
+Artificial intelligence multiplies that leverage.
+
+Secure infrastructure allows the leverage to scale safely.
 
 ---
 
-# 🖥️ Terminal
+## Terminal
 
-```
+```text
 > whoami
 Luke Encrapera
 
-> role
-AI Engineer / Security Architect / Founder
+> profession
+AI Engineer | Security Architect | Founder
 
-> current_focus
-Agentic AI, automation, enterprise security, identity architecture
+> building
+agentic AI platforms
 
-> philosophy
-Build leverage. Eliminate friction. Ship useful systems.
+> focus
+automation, intelligence, identity architecture
 ```
 
 ---
 
-# 🧪 Project Showcase
+## AI System Map
 
 <p align="center">
-  <a href="https://github.com/LEnc95">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=AI-and-Sons&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LEnc95">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=SecretServer&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f6feb&height=70&section=header&text=AI%20System%20Map&fontSize=28&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/LEnc95">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=AzureLicenseBilling&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LEnc95">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LEnc95&repo=OCR&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+```text
+User / Business Problem
+          |
+          v
+   Interface Layer
+(Web Apps / APIs / Voice / Chat)
+          |
+          v
+   Orchestration Layer
+ (n8n / Agents / Workflows)
+          |
+     +----+----+
+     v    v    v
+  Tools  Memory  Data
+   |       |      |
+   v       v      v
+Secrets  Vector   APIs / Files / DBs
+Server   Stores
+     \     |     /
+      \    |    /
+       v   v   v
+   Multi-Model Intelligence Layer
+(OpenAI / Claude / Gemini / Local Models)
+              |
+              v
+   Secure Decision and Action Layer
+(Automation / Provisioning / Analysis / Execution)
+```
 
-> Replace the repo names above with your actual best repositories.
+### How I Build
+
+I design systems that route real-world problems through **interfaces, orchestration, memory, tools, and multi-model intelligence** so the output is not just insight, it is action.
+
+That means building platforms that can:
+
+- understand context
+- call tools safely
+- reason across steps
+- automate execution
+- stay secure in enterprise environments
 
 ---
 
-# 🏗️ Founder
+## Currently Building
 
-## AI & Sons
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Focus-Agentic%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Focus-Enterprise%20Automation-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Focus-Identity%20Architecture-111827?style=for-the-badge" />
+</p>
 
-**AI & Sons** is focused on building applied AI systems that create real business efficiency.
-
-Primary areas include:
-
-* AI workflow automation
-* custom copilots and agents
-* enterprise AI integration
-* modern developer enablement
-* practical AI product engineering
+- AI systems that coordinate tools, memory, and reasoning
+- security-first automation for enterprise identity workflows
+- practical AI products through **AI and Sons**
+- internal tooling that removes repetitive work and accelerates delivery
 
 ---
 
-# 🌐 Connect
+## Engineering Principles
 
-<p align="left">
-  <a href="https://linkedin.com/in/luke-encrapera"><img src="https://img.shields.io/badge/LinkedIn-luke--encrapera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/LEnc95"><img src="https://img.shields.io/badge/GitHub-LEnc95-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<table>
+  <tr>
+    <td><b>Security First</b></td>
+    <td>Every useful system should be designed to scale safely.</td>
+  </tr>
+  <tr>
+    <td><b>Automation by Default</b></td>
+    <td>If a task repeats, it should be systematized.</td>
+  </tr>
+  <tr>
+    <td><b>AI Where It Matters</b></td>
+    <td>I use AI where it creates real operational leverage, not just novelty.</td>
+  </tr>
+  <tr>
+    <td><b>Build for Operators</b></td>
+    <td>The best tooling reduces friction for real people doing real work.</td>
+  </tr>
+</table>
+
+---
+
+## Founder
+
+### AI and Sons
+
+AI consulting and engineering studio focused on practical AI systems.
+
+Areas of work:
+
+- AI workflow automation
+- enterprise AI integrations
+- developer copilots
+- automation infrastructure
+- intelligent software systems
+
+---
+
+## Connect
+
+<p>
+<a href="https://linkedin.com/in/luke-encrapera"><img src="https://img.shields.io/badge/LinkedIn-Luke%20Encrapera-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/LEnc95"><img src="https://img.shields.io/badge/GitHub-LEnc95-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1f6feb&height=2&section=footer" />
-</p>
-
-<p align="center">
-  <b>AI Engineer • Security Architect • Founder • Builder</b>
+<b>AI Engineer | Security Architect | Founder | Builder</b>
 </p>
